@@ -2,3 +2,7 @@ theme: minima
 #theme: jekyll-theme-minimal
 title: devnull
 description: devnull
+
+plugins:
+  - jekyll-include-cache
+      
